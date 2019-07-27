@@ -1,0 +1,25 @@
+{
+  "name": "HarukiMurakamiContractBookGenerator",
+  "version": "1.0.0",
+  "description": "契約書について書くときに僕が語ることジェネレーター",
+  "author": "godan",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/google-analytics": "^2.2.0",
+    "axios": "^0.19.0",
+    "nuxt": "^2.0.0",
+    "ts-node": "^8.3.0",
+    "vue-property-decorator": "^8.2.1"
+  },
+  "devDependencies": {
+    "@nuxt/typescript": "^2.8.1",
+    "@nuxtjs/vuetify": "^1.0.0",
+    "nodemon": "^1.18.9"
+  }
+}
